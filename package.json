@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+    "url": "git+https://github.com/zgutterm/simple-nodejs-weather-app.git"
   },
   "author": "brandon morelli",
   "license": "ISC",
